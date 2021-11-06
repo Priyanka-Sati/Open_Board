@@ -1,6 +1,7 @@
 # Open_Board
 OpenBoard is an open source cross-platform teaching application for interactive whiteboard designed primarily for use in schools and universities.
-This application is build using 
+
+#This application is build using 
 1. Canvas API (For 2d graphical drawaing)
 2. Socket io (For realtime drawaing)
 3. Express (server)
