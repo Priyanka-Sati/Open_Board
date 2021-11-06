@@ -14,3 +14,6 @@ OpenBoard is an open source cross-platform teaching application for interactive 
 3. Undo/Redo
 4. Sticky Notes (we can keep sticky notes for us while teaching)
 5. Download board
+
+# Project link
+https://my--whiteboard.herokuapp.com/
